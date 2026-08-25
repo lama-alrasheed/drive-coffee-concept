@@ -1,90 +1,107 @@
-<div align="center">
+[README.md](https://github.com/user-attachments/files/31412128/README.md)
+<p align="center">
+  <img src="assets/drive-readme-banner.png" alt="DRIVE Coffee proposed website concept" width="100%" />
+</p>
 
-# DRIVE Coffee — Proposed Website Concept
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-PROPOSED_CONCEPT-782483?style=for-the-badge" alt="Proposed Concept" />
+  <img src="https://img.shields.io/badge/DESIGN-FIGMA-782483?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/FRONT_END-REACT-782483?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-782483?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-### A responsive Arabic front-end experience inspired by DRIVE Coffee's visual identity
+<p align="center">
+  <strong>A responsive Arabic digital experience designed around DRIVE Coffee's visual identity.</strong>
+</p>
 
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+---
 
-</div>
+## ✦ About the Concept
 
-## Overview
+**DRIVE Coffee Website** is a proposed front-end concept that explores how the brand's distinctive identity can be translated into a modern, interactive digital experience.
 
-This project is a **proposed website concept** created to explore how DRIVE Coffee's visual identity could be translated into a modern digital experience.
+The interface was designed in **Figma** and developed with **React** and **TypeScript**, with a strong focus on responsive Arabic layouts, smooth interaction, visual consistency, and an intuitive browsing experience across desktop and mobile devices.
 
-The website combines a responsive Arabic-first layout, interactive product browsing, location discovery, and refined motion design. The interface was designed in **Figma** and developed with **React** and **TypeScript**, with careful attention to the brand's purple palette, typography, imagery, and overall visual rhythm.
+> This is an independent portfolio concept and not the official DRIVE Coffee website. The source code is kept private.
 
-> **Project status:** Front-end concept created for portfolio and demonstration purposes. It is not the official DRIVE Coffee website. The source code is kept private.
+## ✦ Project Walkthrough
 
-## Demo
+<!-- Replace VIDEO-LINK-HERE with your Google Drive, YouTube, or portfolio video link before publishing. -->
 
-<!-- Replace the line below with your video or live-preview link. -->
+<p align="center">
+  <a href="VIDEO-LINK-HERE"><strong>▶ Watch the Full Website Experience</strong></a>
+</p>
 
-🎥 **Project walkthrough:** [Watch the website demo](https://drive.google.com/file/d/1fH_12bbLHg7tMd2Q6L_d0bDl0PzLRfoz/view?usp=drivesdk)
+## ✦ Experience Highlights
 
-<!-- Optional: add a cover image beneath the link using:
-![DRIVE Coffee website preview](docs/preview/drive-coffee-cover.png)
--->
+- **Brand-led interface** using DRIVE's signature purple and cream palette
+- **Arabic-first experience** with complete RTL layout support
+- **Responsive design** optimized for desktop, tablet, and mobile screens
+- **Animated logo loader** with a directional brand-fill effect
+- **Smooth section navigation** with sticky navigation and active-state tracking
+- **Interactive menu** with product categories, pricing, and calorie details
+- **Loyalty experience** featuring an animated five-cups-plus-one reward journey
+- **Interactive branch finder** with search, regional filtering, and geolocation
+- **Catering and partner showcase** presented through editorial visual layouts
+- **Branded contact experience** with custom form and selection controls
+- **Motion system** created with Framer Motion and reduced-motion support
 
-## Highlights
-
-- Fully responsive Arabic interface with native **RTL** support
-- Brand-aligned design system and reusable visual styling
-- Animated loading experience based on the DRIVE logo
-- Sticky navigation with active-section tracking
-- Interactive menu with categories, product details, prices, and calories
-- Loyalty-program experience with sequential cup animations
-- Catering and strategic-partners sections
-- Interactive branch explorer powered by Leaflet and CARTO maps
-- Region filters, branch search, and nearest-branch geolocation
-- Custom contact form interface and branded selection controls
-- Smooth, scroll-triggered animations with reduced-motion support
-- Mobile navigation and layouts optimized for different screen sizes
-
-## Featured Sections
+## ✦ Featured Sections
 
 | Section | Experience |
-| --- | --- |
-| Hero | Brand-led introduction with responsive imagery and animated content |
-| Our Story | Editorial layout presenting the brand story and branch presence |
-| Menu | Interactive product showcase with sticky category navigation |
-| Loyalty | Animated “five cups + one reward” journey |
-| Services | Catering experience presented through an immersive visual layout |
-| Partners | Strategic partner presentation with transparent brand assets |
-| Branches | Interactive map, filtering, search, geolocation, and branch navigation |
-| Contact | Branded contact interface with a custom dropdown and responsive form |
+| :--- | :--- |
+| **Hero** | Brand statement, immersive photography, and animated content |
+| **Our Story** | Editorial storytelling with responsive visual composition |
+| **Menu** | Interactive drinks showcase with sticky category navigation |
+| **Loyalty** | Animated reward journey connected to the loyalty experience |
+| **Services** | Catering presentation aligned with the brand's visual language |
+| **Partners** | Strategic partner showcase with clean transparent assets |
+| **Branches** | Interactive map, filters, search, and nearest-branch discovery |
+| **Contact** | Branded contact card with refined custom controls |
 
-## Tech Stack
+## ✦ Tools & Technologies
 
-| Area | Tools |
-| --- | --- |
-| UI/UX Design | Figma |
-| Front End | React 19, TypeScript |
-| Styling | Tailwind CSS 4, custom CSS |
-| Animation | Framer Motion |
-| Maps | Leaflet, React Leaflet, CARTO basemaps |
-| Build Tool | Vite 8 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-782483?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React_19-782483?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-782483?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-782483?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-782483?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-782483?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Leaflet-782483?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+</p>
 
-## Design Direction
+## ✦ My Role
 
-The experience is built around DRIVE Coffee's recognizable purple and cream palette. Alternating editorial layouts, edge-blended imagery, subtle shadows, and restrained motion create a premium feel while keeping the interface clear and easy to navigate.
+- UI concept and visual direction in Figma
+- Responsive front-end development with React and TypeScript
+- Arabic RTL layout implementation
+- Component styling and design-system consistency
+- Interactive motion and scroll experience
+- Menu, loyalty, partner, and branch-finder experiences
+- Responsive testing and interface refinement
 
-Accessibility and usability considerations include semantic navigation, descriptive alternative text, keyboard-friendly controls, responsive typography, and support for users who prefer reduced motion.
+## ✦ Repository Scope
 
-## Repository Scope
+This public repository is intentionally presented as a **portfolio case study**. It contains the project overview and visual presentation only; the implementation source code remains private.
 
-This public repository presents the project as a portfolio case study. The implementation source code is intentionally kept private.
+## ✦ Created by
 
-## Author
+<p align="center">
+  <strong>Lama Alrasheed</strong><br />
+  Web Developer
+</p>
 
-**Lama Alrasheed**  
-Web Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/lama-alrasheed1">
+    <img src="https://img.shields.io/badge/LinkedIn-782483?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/lama-alrasheed">
+    <img src="https://img.shields.io/badge/GitHub-782483?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/lama-alrasheed1) · [GitHub](https://github.com/lama-alrasheed)
+---
 
-## Disclaimer
+<sub>DRIVE Coffee and its related names, logos, trademarks, and visual assets belong to their respective owners. This proposed concept was created independently for portfolio and educational purposes and is not affiliated with or endorsed by DRIVE Coffee.</sub>
 
-This repository contains an independent **proposed design and front-end concept** created for portfolio and educational purposes. It is not the official DRIVE Coffee website and is not affiliated with or endorsed by DRIVE Coffee. All brand names, logos, trademarks, and related visual assets belong to their respective owners.
