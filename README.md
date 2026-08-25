@@ -23,7 +23,7 @@ The website combines a responsive Arabic-first layout, interactive product brows
 
 <!-- Replace the line below with your video or live-preview link. -->
 
-🎥 **Project walkthrough:** [Watch the website demo](ADD-YOUR-VIDEO-LINK-HERE)
+🎥 **Project walkthrough:** [Watch the website demo](https://drive.google.com/file/d/1fH_12bbLHg7tMd2Q6L_d0bDl0PzLRfoz/view?usp=drivesdk)
 
 <!-- Optional: add a cover image beneath the link using:
 ![DRIVE Coffee website preview](docs/preview/drive-coffee-cover.png)
