@@ -29,7 +29,7 @@ The interface was designed in **Figma** and developed with **React** and **TypeS
 <!-- Replace VIDEO-LINK-HERE with your Google Drive, YouTube, or portfolio video link before publishing. -->
 
 <p align="center">
-  <a href="VIDEO-LINK-HERE"><strong>▶ Watch the Full Website Experience</strong></a>
+  <a href="https://drive.google.com/file/d/1fH_12bbLHg7tMd2Q6L_d0bDl0PzLRfoz/view?usp=drivesdk"><strong>▶ Watch the Full Website Experience</strong></a>
 </p>
 
 ## ✦ Experience Highlights
